@@ -1,0 +1,5 @@
+Steps to execute:
+1. Clean the project
+2. run install to generate war
+3. run on tomcat server
+https://stackoverflow.com/questions/6532191/maven-dependency-on-a-web-application
